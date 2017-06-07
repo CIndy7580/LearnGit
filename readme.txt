@@ -5,4 +5,5 @@ Git tract changes
 Creating a new branch is quick..
 a new branch
 aaaaaa
-bbbbb.
+bbbbb
+Creating a new branch is quick AND simple..
